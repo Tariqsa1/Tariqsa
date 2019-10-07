@@ -1,2 +1,2 @@
 # Tariqsa
-new start in github 
+Encryption code By Tariq
